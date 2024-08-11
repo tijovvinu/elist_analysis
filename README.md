@@ -1,7 +1,7 @@
 
 Elist Analysis
 
-![gadgets-you-should-own (1)](https://github.com/user-attachments/assets/27bf5260-0b6c-4f33-8e41-70e6cd6c602c)
+<img width = "500" ![gadgets-you-should-own (1)](https://github.com/user-attachments/assets/27bf5260-0b6c-4f33-8e41-70e6cd6c602c)>
 
 
 # Overview
