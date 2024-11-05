@@ -72,25 +72,28 @@ Order Count: Peaked in 2021 with 18,244 orders but fell by 37% in 2022.
 ![image](https://github.com/user-attachments/assets/b733b5da-d9fc-433d-8bf5-06765c6ac022)
 
 
-##Analysis of Loyalty Member Program
+## Analysis of Loyalty Member Program
 
 ![loyalty_nonloyalty1](https://github.com/user-attachments/assets/8539fa4c-d0e8-4c8d-9eea-487dde116b51)
 
 
 A comparison of monthly order count growth rates between loyalty and non-loyalty customers from 2019-2022 shows notable differences in their purchasing trends.
 
-**Non-loyalty customers:
 
-Displayed fluctuating growth rates over the period.
-Experienced significant swings, such as a decline of -40% in October 2022.
-Had occasional peaks, such as a 39% increase in March 2020.
-Loyalty customers:
+**Non-loyalty customers:**
 
-Consistently demonstrated steadier growth.
-Highlighted by positive percentages like 117% in March 2019 and 66% in March 2020, which stood out amidst varying trends.
+* Displayed fluctuating growth rates over the period.
+* Experienced significant swings, such as a decline of -40% in October 2022.
+* Had occasional peaks, such as a 39% increase in March 2020.
+
+**Loyalty customers:**
+
+* Consistently demonstrated steadier growth.
+*Highlighted by positive percentages like 117% in March 2019 and 66% in March 2020, which stood out amidst varying trends.
+
 This comparison underscores the effectiveness of Elist's loyalty programs in maintaining consistent customer engagement and fostering growth, despite occasional downturns observed across both customer segments. By focusing on sustaining and enhancing loyalty initiatives, Elist can mitigate the volatility seen among non-loyalty customers, strengthen customer retention efforts, and optimize overall business performance in the competitive ecommerce environment.
 
-##Recap of Refunds and Returns##
+## Recap of Refunds and Returns
 
 ![Refund_Charts](https://github.com/user-attachments/assets/d8691cba-9ca4-4e66-8bc4-ff5dddbeb020)
 
@@ -98,32 +101,32 @@ In analyzing refund rates across different product categories between 2019 and 2
 
 **Refund Trends:**
 
-*Items at higher price points, such as the MacBook Air (17%) and ThinkPad (16%), consistently exhibit higher maximum refund rates.
-*Products priced under $100 maintain refund rates consistently below 5% throughout the period, suggesting higher customer commitment despite the higher potential for returns. The Apple iPhone, known for its seasonal updates, displays significant variability in refund rates:
+* Items at higher price points, such as the MacBook Air (17%) and ThinkPad (16%), consistently exhibit higher maximum refund rates.
+* Products priced under $100 maintain refund rates consistently below 5% throughout the period, suggesting higher customer commitment despite the higher potential for returns. The Apple iPhone, known for its seasonal updates, displays significant variability in refund rates:
 
 **Apple iPhone Refund Rates**
 
-*In 2019 there was a 14% refund rate, no returns were recorded in June and July, and then in August there was an 18% spike
-*In 2019 there were 5 iPhones returned, in 2020 13 were returned, and in 2021 4 were returned Notably, 2022 marks a year without any recorded refunds across all product categories, prompting Elist to investigate this anomaly further. These insights underscore the complexity of customer purchasing decisions and the nuances in refund behaviors across different product lines. By understanding these trends, Elist can better strategize its inventory management, customer service initiatives, and product development efforts to optimize overall customer satisfaction and business performance in the competitive market landscape.
+* In 2019 there was a 14% refund rate, no returns were recorded in June and July, and then in August there was an 18% spike
+* In 2019 there were 5 iPhones returned, in 2020 13 were returned, and in 2021 4 were returned Notably, 2022 marks a year without any recorded refunds across all product categories, prompting Elist to investigate this anomaly further. These insights underscore the complexity of customer purchasing decisions and the nuances in refund behaviors across different product lines. By understanding these trends, Elist can better strategize its inventory management, customer service initiatives, and product development efforts to optimize overall customer satisfaction and business performance in the competitive market landscape.
 
 ![Refund_Proportion_Share](https://github.com/user-attachments/assets/f661cbac-6e01-486d-9ee2-57b08d436b6c)
 
 
 **Refunded Apple Products (2019-2021):**
 
-*AirPod headphones consistently represented over 80% of all refunded Apple items.
-*iPhones maintained a steady 1% refund rate during this period, indicating consistent quality and high customer satisfaction.
-*This highlights a significant share of refunds within Elist's Apple product line, raising concerns about potential issues related to quality control or customer expectations that Elist should investigate.
+* AirPod headphones consistently represented over 80% of all refunded Apple items.
+* iPhones maintained a steady 1% refund rate during this period, indicating consistent quality and high customer satisfaction.
+* This highlights a significant share of refunds within Elist's Apple product line, raising concerns about potential issues related to quality control or customer expectations that Elist should investigate.
 
 **Refunded Non-Apple Products (2019-2021):**
 
-*The 27-inch gaming monitor accounted for over 60% of all returns in the non-Apple product line.
-*This suggests a notable refund share within Elist's non-Apple product offerings.
-*The observation underscores the need for Elist to explore factors such as product quality or evolving consumer preferences that could impact return rates across its entire product range.
+* The 27-inch gaming monitor accounted for over 60% of all returns in the non-Apple product line.
+* This suggests a notable refund share within Elist's non-Apple product offerings.
+* The observation underscores the need for Elist to explore factors such as product quality or evolving consumer preferences that could impact return rates across its entire product range.
 
 These insights emphasize the varying refund dynamics between Apple and non-Apple products within Elist's inventory, prompting strategic considerations for improving product quality, managing customer expectations, and enhancing overall customer satisfaction.
 
-##Identification of Regional Patterns##
+## Identification of Regional Patterns
 
 ![Regional_Stacked](https://github.com/user-attachments/assets/86d2d524-6412-4a12-8531-cb49012417f1)
 
@@ -131,16 +134,11 @@ North America (NA) stands out in regional sales distribution, achieving a peak t
 
 Understanding these regional preferences and market dynamics will empower Elist to adeptly tailor its marketing strategies and product offerings. Capitalizing on targeted marketing and aligning product development with emerging trends will be crucial to seizing opportunities and expanding market share in APAC and LATAM.
 
-#Proposed Improvements and Recommendations
+# Proposed Improvements and Recommendations
 Elist faces unique challenges and opportunities reflected in its AOV fluctuations and the effectiveness of its loyalty program. Despite occasional negative AOV growth, Elist can optimize pricing strategies to maximize revenue per transaction while ensuring customer satisfaction. Enhancing the loyalty program with personalized rewards and exclusive incentives based on customer behavior will promote greater engagement and repeat purchases.
 
 Although some product categories, like the recently added Bose Soundsport Headphones, accounted for less than 0.1% of revenue over four years, their potential should be evaluated before making any discontinuation decisions. Addressing high return rates in other key categories is also essential by investigating factors such as product quality issues or shifts in consumer preferences. Tailoring marketing strategies to regional preferences and dynamics, especially in Asia-Pacific and Latin America, presents growth opportunities through localized campaigns and product offerings.
 
 Elist's overarching goal is to achieve a total of $30 million in increased total sales by January 2027. Implementing these strategies will enable Elist to effectively navigate challenges, capitalize on expansion opportunities, and maintain a competitive edge in the dynamic e-commerce landscape.
 
-**Refund Program**
 
-**Recommendations**
-
-
-Sales trend analysis for ecommerce company
