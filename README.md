@@ -89,7 +89,7 @@ A comparison of monthly order count growth rates between loyalty and non-loyalty
 **Loyalty customers:**
 
 * Consistently demonstrated steadier growth.
-*Highlighted by positive percentages like 117% in March 2019 and 66% in March 2020, which stood out amidst varying trends.
+* Highlighted by positive percentages like 117% in March 2019 and 66% in March 2020, which stood out amidst varying trends.
 
 This comparison underscores the effectiveness of Elist's loyalty programs in maintaining consistent customer engagement and fostering growth, despite occasional downturns observed across both customer segments. By focusing on sustaining and enhancing loyalty initiatives, Elist can mitigate the volatility seen among non-loyalty customers, strengthen customer retention efforts, and optimize overall business performance in the competitive ecommerce environment.
 
